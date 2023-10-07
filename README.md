@@ -1,2 +1,2 @@
 # vidnote
-VidNote. Personalized newsletters based on YouTube content
+VidNote. Personalized newsletters based on YouTube content.
